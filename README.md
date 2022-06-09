@@ -1,10 +1,11 @@
-# push to master on fridays ⚡
+# Privacy is Important ⚡
 <p align="center">
   <img src="https://media.giphy.com/media/WKdWA04KRn58A/giphy.gif">
 </p>
 
-⚡ Fun fact: ...
 <!--
+⚡ Fun fact: ...
+
 **nickcapp/nickcapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
