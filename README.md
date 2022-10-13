@@ -1,5 +1,5 @@
 # The Privacy Pros 
-## Privacy is critially Important ⚡ <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+## Privacy is Important ⚡ <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <p><em>I'm a Full-Stack Engineer at <a href="https://iapp.org/">IAPP</a>
 </em></p>
 ⚡ Fun fact: ...
