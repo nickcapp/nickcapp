@@ -1,4 +1,4 @@
-# The Privacy Pros 
+<!-- # The Privacy Pros 
 ## Privacy is Important ⚡ <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <p><em>I'm a Full-Stack Engineer at <a href="https://iapp.org/">IAPP</a>
 </em></p>
@@ -8,8 +8,8 @@
   <img src="https://media.giphy.com/media/WKdWA04KRn58A/giphy.gif">
 </p>
 
-⚡ Fun fact: ...
-
+ -->
+<!-- 
 **nickcapp/nickcapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ -->
